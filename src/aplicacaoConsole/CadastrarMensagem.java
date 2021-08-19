@@ -6,6 +6,8 @@ package aplicacaoConsole;
  *
  */
 
+// Alunos: Wellington da Silva e Rebeka Moreira
+
 import java.util.List;
 
 import javax.swing.JOptionPane;

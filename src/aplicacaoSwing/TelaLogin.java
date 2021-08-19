@@ -1,7 +1,7 @@
 /**********************************
  * IFPB - Curso Superior de Tec. em Sist. para Internet
- * Pesist~encia de Objetos
- * Prof. Fausto Maranh�o Ayres
+ * Pesistência de Objetos
+ * Prof. Fausto Maranhão Ayres
  **********************************/
 
 package aplicacaoSwing;

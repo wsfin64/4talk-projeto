@@ -1,3 +1,5 @@
+// Alunos: Wellington da Silva e Rebeka Moreira
+
 package dao;
 
 import java.util.List;

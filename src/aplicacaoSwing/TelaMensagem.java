@@ -1,7 +1,7 @@
 /**********************************
  * IFPB - Curso Superior de Tec. em Sist. para Internet
- * Pesist~encia de Objetos
- * Prof. Fausto Maranh�o Ayres
+ * Pesistência de Objetos
+ * Prof. Fausto Maranhão Ayres
  **********************************/
 
 package aplicacaoSwing;
@@ -127,15 +127,15 @@ public class TelaMensagem {
 						int id = (Integer) table.getValueAt( table.getSelectedRow(), 0); //0=nome
 
 						Object[] options = { "Confirmar", "Cancelar" };
-						int escolha = JOptionPane.showOptionDialog(null, "Esta opera��o apagar� a mensagem", "Alerta",
+						int escolha = JOptionPane.showOptionDialog(null, "Esta operação apagará a mensagem", "Alerta",
 								JOptionPane.DEFAULT_OPTION, 
 								JOptionPane.WARNING_MESSAGE, null, options, options[1]);
 						if(escolha == 0) {
 							Fachada.apagarMensagens(id);
-							label.setText("exclus�o realizada"); 
+							label.setText("exclusão realizada");
 						}
 						else
-							label.setText("exclus�o cancelada"); 
+							label.setText("exclusão cancelada");
 					}
 				}
 				catch(Exception ex) {

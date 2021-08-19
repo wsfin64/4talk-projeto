@@ -1,8 +1,8 @@
 package aplicacaoSwing;
 /**********************************
  * IFPB - Curso Superior de Tec. em Sist. para Internet
- * Pesist~encia de Objetos
- * Prof. Fausto Maranh�o Ayres
+ * Persistência de Objetos
+ * Prof. Fausto Maranhão Ayres
  **********************************/
 
 import java.awt.Cursor;

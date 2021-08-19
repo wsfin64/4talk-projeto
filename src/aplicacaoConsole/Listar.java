@@ -1,3 +1,5 @@
+// Alunos: Wellington da Silva e Rebeka Moreira
+
 package aplicacaoConsole;
 /**********************************
  * IFPB - Curso Superior de Tec. em Sist. para Internet

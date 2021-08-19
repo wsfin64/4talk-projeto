@@ -6,6 +6,8 @@ package aplicacaoConsole;
  *
  */
 
+// Alunos: Wellington da Silva e Rebeka Moreira
+
 import javax.swing.JOptionPane;
 
 import fachada.Fachada;
